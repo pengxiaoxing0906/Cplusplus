@@ -1,0 +1,3 @@
+/home/pxx/Desktop/c++/thread1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Desktop/c++/thread1/cmake-build-debug/CMakeFiles/thread1.dir
+/home/pxx/Desktop/c++/thread1/cmake-build-debug/CMakeFiles/edit_cache.dir
